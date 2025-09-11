@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee",
+    "price": 3.49,
+    "description": "Rich and aromatic brew to kickstart your day. Perfect for breakfast or lunch.",
+    "image": "coffee",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Energy Drinks",
+    "price": 4.99,
+    "description": "Boost your day with our refreshing energy drinks and perfect for breakfast or lunch specials.",
+    "image": "energy-drink",
+    "category": "Drinks",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Ice Coffee",
+    "price": 5.49,
+    "description": "Chilled coffee brewed to perfection, offering a refreshing and energizing start to your day.",
+    "image": "ice-coffee",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "Ice Tea",
+    "price": 4.49,
+    "description": "Chilled and refreshing tea and ideal for a cool break anytime.",
+    "image": "ice-tea",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 5,
+    "name": "Tropicana",
+    "price": 4.25,
+    "description": "Refreshing tropicana juice and perfect for breakfast or lunch specials.",
+    "image": "tropicana",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 6,
+    "name": "Soda",
+    "price": 3.99,
+    "description": "Refreshing carbonated drink to complement your meal.",
+    "image": "soda",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 7,
+    "name": "Snapple",
+    "price": 3.99,
+    "description": "Natural-flavored drink, ideal for a refreshing and thirst-quenching experience.",
+    "image": "snapple",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 8,
+    "name": "Hot Tea",
+    "price": 3.49,
+    "description": "Warm and comforting tea, perfect for a relaxing break.",
+    "image": "hot-tea",
+    "category": "Drinks",
+    "popular": false
+  }
+]

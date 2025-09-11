@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Butter Bagel",
+    "price": 3.99,
+    "description": "Classic bagel with a generous spread of creamy butter and perfect for a simple yet satisfying breakfast.",
+    "image": "Butter Bagel",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Plain Cream Cheese on a Bagel",
+    "price": 4.75,
+    "description": "Bagel topped with smooth cream cheese, perfect for a simple and satisfying breakfast.",
+    "image": "Plain Cream Cheese on a Bagel",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 3,
+    "name": "Flavored Cream Cheese on a Bagel",
+    "price": 5.99,
+    "description": "Bagel topped with your choice of flavored cream cheese for a delightful breakfast treat.",
+    "image": "Flavored Cream Cheese on a Bagel",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "2 Eggs Bacon and Cheese",
+    "price": 8.99,
+    "description": "Two fresh eggs with crispy bacon and melted cheese on your choice of bagel.",
+    "image": "2-eggs-bacon-and-cheese",
+    "category": "Breakfast",
+    "popular": true
+  },
+  {
+    "id": 5,
+    "name": "2 Eggs and Cheese",
+    "price": 7.99,
+    "description": "Two fresh eggs with melted cheese on your choice of bagel.",
+    "image": "2-eggs-and-cheese",
+    "category": "Breakfast",
+    "popular": true
+  },
+  {
+    "id": 6,
+    "name": "2 Eggs and Bacon",
+    "price": 8.49,
+    "description": "Two fresh eggs with crispy bacon on your choice of bagel.",
+    "image": "2-eggs-and-bacon",
+    "category": "Breakfast",
+    "popular": true
+  },
+  {
+    "id": 7,
+    "name": "Sausage and 2Eggs",
+    "price": 8.99,
+    "description": "Two fresh eggs with savory sausage on your choice of bagel.",
+    "image": "Sausage and 2Eggs",
+    "category": "Breakfast",
+    "popular": true
+  },
+  {
+    "id": 8,
+    "name": "Hungry Man Hero",
+    "price": 12.99,
+    "description": "Our signature hero with eggs, bacon, sausage, cheese, and all the fixings.",
+    "image": "Hungry Man Hero",
+    "category": "Breakfast",
+    "popular": true
+  },
+  {
+    "id": 9,
+    "name": "Lox and Cream Cheese",
+    "price": 11.49,
+    "description": "Savory lox paired with creamy cheese on a fresh bagel and perfect for a delightful breakfast treat.",
+    "image": "Lox and Cream Cheese",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 10,
+    "name": "Cream Cheese and Bacon",
+    "price": 7.79,
+    "description": "Savory cream cheese paired with boars head crispy bacon and perfect for a hearty breakfast.",
+    "image": "Cream Cheese and Bacon",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 11,
+    "name": "Pancakes",
+    "price": 12.49,
+    "description": "Fluffy stack of 3 pancakes and perfect for a delightful breakfast treat.",
+    "image": "Pancakes",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 12,
+    "name": "French Toast",
+    "price": 12.49,
+    "description": "Golden, fluffy slices served in a set of 3 and perfect for a delightful breakfast treat.",
+    "image": "French Toast",
+    "category": "Breakfast",
+    "popular": false
+  }
+]
