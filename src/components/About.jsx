@@ -39,7 +39,7 @@ const About = () => {
           >
             <div className="bg-white rounded-2xl shadow-2xl p-8">
               <img
-                src="/images/Logo/ravaasbagel.jpg"
+                src="./images/Logo/ravaasbagel.jpg"
                 alt="Ravaa's Bagels Logo"
                 className="w-full h-64 object-cover rounded-xl mb-6"
               />

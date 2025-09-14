@@ -18,7 +18,7 @@ const Header = () => {
               className="flex items-center space-x-3"
             >
               <img 
-                src="/images/Logo/ravaasbagel.jpg" 
+                src="./images/Logo/ravaasbagel.jpg" 
                 alt="Ravaa's Bagels Logo" 
                 className="h-16 w-16 rounded-full object-cover border-4 border-white shadow-lg"
               />
