@@ -7,13 +7,13 @@ import './styles/globals.css'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/ravaas-bagels">
       <div className="min-h-screen bg-ravaa-cream">
         <Header />
         <main>
           <Routes>
-            <Route path="ravaas-bagels/" element={<Home />} />
-            <Route path="ravaas-bagels/menu" element={<Menu />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/menu" element={<Menu />} />
           </Routes>
         </main>
         <Footer />
