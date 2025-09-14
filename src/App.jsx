@@ -12,8 +12,8 @@ function App() {
         <Header />
         <main>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/menu" element={<Menu />} />
+            <Route path="ravaas-bagels/" element={<Home />} />
+            <Route path="ravaas-bagels/menu" element={<Menu />} />
           </Routes>
         </main>
         <Footer />
