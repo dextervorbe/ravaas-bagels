@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion'
+import { Link } from 'react-router-dom'
 
 const Hero = () => {
   return (
@@ -36,12 +37,12 @@ const Hero = () => {
             >
               Order Now 🚀
             </a>
-            <a
-              href="/menu"
+            <Link
+              to="/menu"
               className="btn-secondary text-lg px-8 py-4 inline-block"
             >
               View Menu 📋
-            </a>
+            </Link>
           </motion.div>
         </div>
       </div>
