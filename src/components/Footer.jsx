@@ -23,7 +23,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-ravaa-cream text-sm">
-              "Barking up the right tree since 2024!"
+              "Barking up the right tree since 2025!"
             </p>
           </div>
 
@@ -67,7 +67,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-600 mt-8 pt-6 text-center">
           <p className="text-ravaa-cream text-sm">
-            © 2024 Ravaa's Bagels. Made with ❤️ and a little dog hair.
+            © 2025 Ravaa's Bagels. Made with ❤️ and a little dog hair.
           </p>
         </div>
       </div>

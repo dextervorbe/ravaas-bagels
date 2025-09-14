@@ -14,7 +14,7 @@ const Hero = () => {
               🐕 Ravaa's Bagels 🥯
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-ravaa-cream">
-              "Barking up the right tree since 2024!"
+              "Barking up the right tree since 2025!"
             </p>
             <p className="text-lg md:text-xl mb-12 max-w-3xl mx-auto">
               Where every bagel tells a story, and every story starts with our beloved Ravaa. 
