@@ -38,7 +38,7 @@ const Header = () => {
             <Link
               to="/"
               className={`px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 ${
-                location.pathname === '/'
+                location.pathname === 'ravaas-bagels/'
                   ? 'bg-ravaa-red text-white'
                   : 'text-white hover:bg-ravaa-red hover:text-white'
               }`}
