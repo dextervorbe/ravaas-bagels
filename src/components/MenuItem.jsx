@@ -5,45 +5,45 @@ const MenuItem = ({ item }) => {
     // Map image names to actual file paths based on category
     const imageMap = {
       // Breakfast images
-      'Butter Bagel': './images/Breakfast/Butter Bagel.jpg',
-      'Plain Cream Cheese on a Bagel': './images/Breakfast/Plain Cream Cheese on a Bagel.jpg',
-      'Flavored Cream Cheese on a Bagel': './images/Breakfast/Flavored Cream Cheese on a Bagel.jpg',
-      '2-eggs-bacon-and-cheese': './images/Breakfast/2-eggs-bacon-and-cheese.jpg',
-      '2-eggs-and-cheese': './images/Breakfast/2-eggs-and-cheese.jpg',
-      '2-eggs-and-bacon': './images/Breakfast/2-eggs-and-bacon.jpg',
-      'Sausage and 2Eggs': './images/Breakfast/Sausage and 2Eggs.jpg',
-      'Hungry Man Hero': './images/Breakfast/Hungry Man Hero.jpg',
-      'Lox and Cream Cheese': './images/Breakfast/Lox and Cream Cheese.jpg',
-      'Cream Cheese and Bacon': './images/Breakfast/Cream Cheese and Bacon.jpg',
-      'Pancakes': './images/Breakfast/Pancakes.jpg',
-      'French Toast': './images/Breakfast/French Toast.jpg',
+      'Butter Bagel': '/images/Breakfast/Butter Bagel.jpg',
+      'Plain Cream Cheese on a Bagel': '/images/Breakfast/Plain Cream Cheese on a Bagel.jpg',
+      'Flavored Cream Cheese on a Bagel': '/images/Breakfast/Flavored Cream Cheese on a Bagel.jpg',
+      '2-eggs-bacon-and-cheese': '/images/Breakfast/2-eggs-bacon-and-cheese.jpg',
+      '2-eggs-and-cheese': '/images/Breakfast/2-eggs-and-cheese.jpg',
+      '2-eggs-and-bacon': '/images/Breakfast/2-eggs-and-bacon.jpg',
+      'Sausage and 2Eggs': '/images/Breakfast/Sausage and 2Eggs.jpg',
+      'Hungry Man Hero': '/images/Breakfast/Hungry Man Hero.jpg',
+      'Lox and Cream Cheese': '/images/Breakfast/Lox and Cream Cheese.jpg',
+      'Cream Cheese and Bacon': '/images/Breakfast/Cream Cheese and Bacon.jpg',
+      'Pancakes': '/images/Breakfast/Pancakes.jpg',
+      'French Toast': '/images/Breakfast/French Toast.jpg',
       
       // Lunch images
-      'roast-beef': './images/Lunch/roast-beef.jpg',
-      'turkey-breast': './images/Lunch/turkey-breast.jpg',
-      'chicken-breast': './images/Lunch/chicken-breast.jpg',
-      'chicken-cutlet': './images/Lunch/chicken-cutlet.jpg',
-      'grilled-chicken': './images/Lunch/grilled-chicken.jpg',
-      'ham': './images/Lunch/ham.jpg',
-      'blt': './images/Lunch/blt.jpeg',
-      'tuna-salad': './images/Lunch/tuna-salad.jpg',
-      'chicken-salad': './images/Lunch/chicken-salad.jpg',
-      'egg-salad': './images/Lunch/egg-salad.jpg',
-      'tuna-melt': './images/Lunch/tuna-melt.jpg',
-      'home-fries': './images/Lunch/home-fries.jpg',
+      'roast-beef': '/images/Lunch/roast-beef.jpg',
+      'turkey-breast': '/images/Lunch/turkey-breast.jpg',
+      'chicken-breast': '/images/Lunch/chicken-breast.jpg',
+      'chicken-cutlet': '/images/Lunch/chicken-cutlet.jpg',
+      'grilled-chicken': '/images/Lunch/grilled-chicken.jpg',
+      'ham': '/images/Lunch/ham.jpg',
+      'blt': '/images/Lunch/blt.jpeg',
+      'tuna-salad': '/images/Lunch/tuna-salad.jpg',
+      'chicken-salad': '/images/Lunch/chicken-salad.jpg',
+      'egg-salad': '/images/Lunch/egg-salad.jpg',
+      'tuna-melt': '/images/Lunch/tuna-melt.jpg',
+      'home-fries': '/images/Lunch/home-fries.jpg',
       
       // Drinks images
-      'coffee': './images/Drinks/coffee.jpg',
-      'energy-drink': './images/Drinks/energy-drink.jpg',
-      'ice-coffee': './images/Drinks/ice-coffee.jpg',
-      'ice-tea': './images/Drinks/ice-tea.jpg',
-      'tropicana': './images/Drinks/tropicana.jpg',
-      'soda': './images/Drinks/soda.jpg',
-      'snapple': './images/Drinks/snapple.jpg',
-      'hot-tea': './images/Drinks/hot-tea.webp'
+      'coffee': '/images/Drinks/coffee.jpg',
+      'energy-drink': '/images/Drinks/energy-drink.jpg',
+      'ice-coffee': '/images/Drinks/ice-coffee.jpg',
+      'ice-tea': '/images/Drinks/ice-tea.jpg',
+      'tropicana': '/images/Drinks/tropicana.jpg',
+      'soda': '/images/Drinks/soda.jpg',
+      'snapple': '/images/Drinks/snapple.jpg',
+      'hot-tea': '/images/Drinks/hot-tea.webp'
     }
     
-    return imageMap[imageName] || './images/Logo/ravaasbagel.jpg'
+    return imageMap[imageName] || '/images/Logo/ravaasbagel.jpg'
   }
 
   return (
