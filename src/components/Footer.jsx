@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="text-center md:text-left">
             <div className="flex items-center justify-center md:justify-start space-x-3 mb-4">
               <img 
-                src="/images/Logo/ravaasbagel.jpg" 
+                src="/ravaas-bagels/images/Logo/ravaasbagel.jpg" 
                 alt="Ravaa's Bagels Logo" 
                 className="h-12 w-12 rounded-full object-cover border-2 border-white"
               />
