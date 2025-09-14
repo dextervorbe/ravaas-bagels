@@ -32,10 +32,15 @@ const LocationHours = () => {
             <h3 className="text-2xl font-heading font-bold text-ravaa-dark mb-4">
               Location
             </h3>
-            <p className="text-lg text-gray-700">
+            <a 
+              href="https://www.google.com/maps/search/6278+Route+25a+Wading+River+NY+11792-2009"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-lg text-gray-700 hover:text-ravaa-orange transition-colors duration-200 cursor-pointer"
+            >
               6278 Route 25a<br />
               Wading River, NY 11792-2009
-            </p>
+            </a>
           </motion.div>
 
           {/* Hours */}

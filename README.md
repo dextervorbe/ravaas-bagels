@@ -196,3 +196,4 @@ This is a personal project for Ravaa's Bagels. If you have suggestions or find i
 **Made with ❤️ and a little dog hair by the Ravaa's Bagels team**
 
 *"So if you're here for good food, good vibes, and maybe a tail wag or two, welcome home. Ravaa already considers you family."*
+
