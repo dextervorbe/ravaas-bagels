@@ -40,7 +40,18 @@ const MenuItem = ({ item }) => {
       'tropicana': '/ravaas-bagels/images/Drinks/tropicana.jpg',
       'soda': '/ravaas-bagels/images/Drinks/soda.jpg',
       'snapple': '/ravaas-bagels/images/Drinks/snapple.jpg',
-      'hot-tea': '/ravaas-bagels/images/Drinks/hot-tea.webp'
+      'hot-tea': '/ravaas-bagels/images/Drinks/hot-tea.webp',
+      'pepsi': '/ravaas-bagels/images/Drinks/Pepsi.webp',
+      'water': '/ravaas-bagels/images/Drinks/Water.webp',
+      'gatorade': '/ravaas-bagels/images/Drinks/Gatorade.avif',
+      'redbull': '/ravaas-bagels/images/Drinks/Redbull.webp',
+      'monster-energy-drink': '/ravaas-bagels/images/Drinks/Monster Energy Drinks.webp',
+      'celcius': '/ravaas-bagels/images/Drinks/Celcius.webp',
+      'c4': '/ravaas-bagels/images/Drinks/C4.webp',
+      'bloom': '/ravaas-bagels/images/Drinks/Bloom.webp',
+      'poppi': '/ravaas-bagels/images/Drinks/Poppi.webp',
+      'coke-soda': '/ravaas-bagels/images/Drinks/Coke Soda.avif',
+      'starbucks-frappuccino': '/ravaas-bagels/images/Drinks/Starbucks Frappuccino.avif'
     }
     
     return imageMap[imageName] || '/ravaas-bagels/images/Logo/ravaasbagel.jpg'
