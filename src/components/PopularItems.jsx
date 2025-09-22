@@ -70,7 +70,7 @@ const PopularItems = () => {
                       {popularItems[currentIndex].description}
                     </p>
                     <div className="text-3xl font-bold text-ravaa-cream">
-                      ${popularItems[currentIndex].price}
+                      ${popularItems[currentIndex].price.toFixed(2)}
                     </div>
                   </div>
                   <div className="flex-1">
