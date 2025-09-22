@@ -13,10 +13,13 @@ This website was created with love and a little dog hair! Ravaa's Bagels is a fa
 - **Responsive Design** - Looks great on desktop, tablet, and mobile
 - **Interactive Menu** - Filterable menu with categories (Breakfast, Lunch, Drinks)
 - **Popular Items Carousel** - Rotating showcase of Ravaa's favorite items
+- **Customer Reviews** - Rotating carousel of 5-star customer reviews
 - **Smooth Animations** - Delightful interactions powered by Framer Motion
 - **Custom Branding** - Colors and design inspired by Ravaa's personality
 - **DoorDash Integration** - Direct ordering links
 - **Social Media** - Instagram integration
+- **Auto-Scroll to Top** - Seamless navigation experience
+- **Shared Image Mapping** - Centralized image management system
 
 ## 🎨 Design
 
@@ -41,6 +44,8 @@ ravaas-bagels/
 │   │   ├── Header.jsx          # Navigation and logo
 │   │   ├── Hero.jsx            # Hero section with tagline
 │   │   ├── PopularItems.jsx    # Rotating carousel
+│   │   ├── Reviews.jsx         # Customer reviews carousel
+│   │   ├── ScrollToTop.jsx     # Auto-scroll navigation
 │   │   ├── About.jsx           # About Ravaa story
 │   │   ├── LocationHours.jsx   # Address and hours
 │   │   ├── SocialMedia.jsx     # Instagram integration
@@ -54,6 +59,8 @@ ravaas-bagels/
 │   │   ├── breakfast.json      # Breakfast menu items
 │   │   ├── lunch.json          # Lunch menu items
 │   │   └── drinks.json         # Drinks menu items
+│   ├── utils/
+│   │   └── imageMapping.js     # Shared image mapping utility
 │   ├── styles/
 │   │   └── globals.css         # Tailwind CSS and custom styles
 │   ├── App.jsx                 # Main app component
@@ -119,6 +126,7 @@ ravaas-bagels/
 - Filterable menu by category
 - All menu items with images and descriptions
 - Popular item badges
+- Customer reviews carousel
 - Order now call-to-action
 
 ## 🍽️ Menu Categories
@@ -147,9 +155,19 @@ The website features a rotating carousel of popular items:
 - 2 Eggs Bacon and Cheese
 - 2 Eggs and Cheese
 - 2 Eggs and Bacon
-- Energy Drinks
-- Sausage and 2Eggs
+- 2 Eggs, Sausage & Cheese
+- 2 Eggs & Sausage
+- 2 Eggs Sandwich
+- Cream Cheese Bagel
 - Hungry Man Hero
+
+## ⭐ Customer Reviews
+
+The menu page includes a rotating carousel of 5-star customer reviews from DoorDash, featuring:
+- Real customer testimonials
+- Star ratings display
+- Customer avatars with generated colors
+- Auto-rotating every 5 seconds
 
 ## 📍 Location & Hours
 
@@ -161,12 +179,30 @@ The website features a rotating carousel of popular items:
 - **Order Online:** [DoorDash](https://www.doordash.com/store/2536346?utm_source=mx_share)
 - **Instagram:** [@ravaasbagels](https://www.instagram.com/ravaasbagels?igsh=MTRjOXN5OWttdXcydw==)
 
+## 🔄 Recent Improvements
+
+### Latest Updates
+- **Customer Reviews Section** - Added rotating carousel of 5-star reviews on menu page
+- **Auto-Scroll Navigation** - Users automatically scroll to top when navigating between pages
+- **Shared Image Mapping** - Centralized image management system for better maintainability
+- **Price Formatting** - Consistent 2-decimal place pricing display across all components
+- **DoorDash Integration** - Updated all ordering links to use DoorDash instead of UberEats
+- **Dynamic Popular Items** - Popular items carousel now dynamically filters from all menu categories
+- **Code Refactoring** - Eliminated duplicate code by creating shared utilities
+
+### Technical Improvements
+- Created `src/utils/imageMapping.js` for centralized image path management
+- Added `ScrollToTop` component for seamless navigation experience
+- Implemented `Reviews` component with auto-rotating customer testimonials
+- Updated all components to use shared image mapping utility
+- Fixed JSON syntax issues and improved data consistency
+
 ## 🎨 Customization
 
 ### Adding New Menu Items
 1. Edit the appropriate JSON file in `src/data/`
 2. Add the image to the `images/` folder
-3. Update the image mapping in `MenuItem.jsx` if needed
+3. Update the image mapping in `src/utils/imageMapping.js`
 
 ### Changing Colors
 1. Edit `tailwind.config.js` to modify the color palette
