@@ -3,11 +3,13 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import Home from './pages/Home'
 import Menu from './pages/Menu'
+import ScrollToTop from './components/ScrollToTop'
 import './styles/globals.css'
 
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <div className="min-h-screen bg-ravaa-cream">
         <Header />
         <main>
