@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import MenuFilter from '../components/MenuFilter'
 import MenuItem from '../components/MenuItem'
+import Reviews from '../components/Reviews'
 import breakfastData from '../data/breakfast.json'
 import lunchData from '../data/lunch.json'
 import drinksData from '../data/drinks.json'
@@ -77,6 +78,9 @@ const Menu = () => {
           )}
         </div>
       </section>
+
+      {/* Reviews Section */}
+      <Reviews />
 
       {/* Order Now CTA */}
       <section className="py-16 bg-white">
