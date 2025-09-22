@@ -6,7 +6,7 @@
     "description": "A selection of bagels and breads including Plain Bagel, Gluten Free Bagel, Everything Bagel, Onion Bagel, and more. Also available: English Muffin, Croissant, Wheat Wrap, and Plain Wrap.",
     "image": "Butter Bagel",
     "category": "Breakfast",
-    "popular": True
+    "popular": true
   },
   {
     "id": 2,
