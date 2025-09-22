@@ -84,7 +84,7 @@ const MenuItem = ({ item }) => {
             {item.name}
           </h3>
           <span className="text-2xl font-bold text-ravaa-orange">
-            ${item.price}
+            ${item.price.toFixed(2)}
           </span>
         </div>
         
