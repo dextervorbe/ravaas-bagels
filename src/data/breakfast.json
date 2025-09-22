@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Butter Bagel",
-    "price": 3.99,
-    "description": "Classic bagel with a generous spread of creamy butter and perfect for a simple yet satisfying breakfast.",
+    "price": 3.25,
+    "description": "A selection of bagels and breads including Plain Bagel, Gluten Free Bagel, Everything Bagel, Onion Bagel, and more. Also available: English Muffin, Croissant, Wheat Wrap, and Plain Wrap.",
     "image": "Butter Bagel",
     "category": "Breakfast",
     "popular": false
@@ -65,8 +65,8 @@
   {
     "id": 8,
     "name": "Hungry Man Hero",
-    "price": 12.99,
-    "description": "Our signature hero with eggs, bacon, sausage, cheese, and all the fixings.",
+    "price": 10.99,
+    "description": "Scrambled 3 eggs with ham, bacon, and sausage on a hero.",
     "image": "Hungry Man Hero",
     "category": "Breakfast",
     "popular": true
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "Pancakes",
     "price": 12.49,
-    "description": "Fluffy stack of 3 pancakes and perfect for a delightful breakfast treat.",
+    "description": "Three pancakes joined by butter and a drizzle of maple syrup.",
     "image": "Pancakes",
     "category": "Breakfast",
     "popular": false
@@ -104,6 +104,150 @@
     "price": 12.49,
     "description": "Golden, fluffy slices served in a set of 3 and perfect for a delightful breakfast treat.",
     "image": "French Toast",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 13,
+    "name": "Grilled Cheese",
+    "price": 6.99,
+    "description": "Melted cheese between two slices of bread, grilled to perfection.",
+    "image": "Grilled Cheese",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 14,
+    "name": "2 Eggs and Ham",
+    "price": 8.49,
+    "description": "Two fresh eggs with savory ham on your choice of bagel.",
+    "image": "2-eggs-and-ham",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 15,
+    "name": "2 Eggs and Turkey",
+    "price": 8.49,
+    "description": "Two fresh eggs with lean turkey on your choice of bagel.",
+    "image": "2-eggs-and-turkey",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 16,
+    "name": "2 Eggs Ham and Cheese",
+    "price": 8.99,
+    "description": "Two fresh eggs with ham and melted cheese on your choice of bagel.",
+    "image": "2-eggs-ham-and-cheese",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 17,
+    "name": "2 Sliced Cheese and Bagel",
+    "price": 4.99,
+    "description": "Fresh bagel with two slices of your choice of cheese.",
+    "image": "2-sliced-cheese-and-bagel",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 18,
+    "name": "Bacon on a Bagel (5 Slice)",
+    "price": 6.99,
+    "description": "Five slices of crispy bacon on your choice of bagel.",
+    "image": "Bacon on a Bagel (5 Slice)",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 19,
+    "name": "Butter and Jelly",
+    "price": 4.25,
+    "description": "Bagel with butter and your choice of jelly or jam.",
+    "image": "Butter and Jelly",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 20,
+    "name": "Cream Cheese and Jelly",
+    "price": 5.25,
+    "description": "Bagel with cream cheese and your choice of jelly or jam.",
+    "image": "Cream Cheese and Jelly",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 21,
+    "name": "Lox on a Bagel, Roll",
+    "price": 11.49,
+    "description": "Savory lox on your choice of bagel or roll.",
+    "image": "Lox on a Bagel , Roll",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 22,
+    "name": "Lox Spread",
+    "price": 9.99,
+    "description": "Creamy lox spread on your choice of bagel.",
+    "image": "Lox Spread",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 23,
+    "name": "Peanut Butter and Jelly",
+    "price": 4.75,
+    "description": "Classic peanut butter and jelly on your choice of bagel.",
+    "image": "Peanut Butter and Jelly",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 24,
+    "name": "Peanut Butter on a Bagel",
+    "price": 4.25,
+    "description": "Creamy peanut butter on your choice of bagel.",
+    "image": "Peanut Butter on a Bagel",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 25,
+    "name": "Sausage 2Eggs and Cheese",
+    "price": 9.99,
+    "description": "Two fresh eggs with sausage and melted cheese on your choice of bagel.",
+    "image": "Sausage 2Eggs and Cheese",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 26,
+    "name": "Side Bacon (5 Slice)",
+    "price": 4.99,
+    "description": "Five slices of crispy bacon as a side order.",
+    "image": "Side Bacon(5Slice)",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 27,
+    "name": "Turkey and Bacon",
+    "price": 8.99,
+    "description": "Lean turkey with crispy bacon on your choice of bagel.",
+    "image": "turkey-and-bacon",
+    "category": "Breakfast",
+    "popular": false
+  },
+  {
+    "id": 28,
+    "name": "Western Omelette",
+    "price": 10.99,
+    "description": "Fluffy omelette with ham, peppers, onions, and cheese.",
+    "image": "Western Omelette",
     "category": "Breakfast",
     "popular": false
   }
