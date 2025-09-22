@@ -26,10 +26,10 @@ const PopularItems = () => {
   const getImagePath = (imageName) => {
     // Map image names to actual file paths
     const imageMap = {
-      '2-eggs-bacon-and-cheese': '/ravaas-bagels/images/Breakfast/2-eggs-bacon-and-cheese.jpg',
+      '2 Eggs, Bacon And Cheese': '/ravaas-bagels/images/Breakfast/2-eggs-bacon-and-cheese.jpg',
       '2-eggs-and-cheese': '/ravaas-bagels/images/Breakfast/2-eggs-and-cheese.jpg',
       '2-eggs-and-bacon': '/ravaas-bagels/images/Breakfast/2-eggs-and-bacon.jpg',
-      'Sausage and 2Eggs': '/ravaas-bagels/images/Breakfast/Sausage and 2Eggs.jpg',
+      '2 Eggs & Sausage': '/ravaas-bagels/images/Breakfast/2 Eggs & Sausage.webp',
       'Hungry Man Hero': '/ravaas-bagels/images/Breakfast/Hungry Man Hero.jpg',
       'energy-drink': '/ravaas-bagels/images/Drinks/energy-drink.jpg'
     }
