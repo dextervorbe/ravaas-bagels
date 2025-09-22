@@ -51,6 +51,14 @@ const Footer = () => {
                   Order Online
                 </a>
               </li>
+              <li>
+                <a 
+                  href="tel:6318210500"
+                  className="text-ravaa-cream hover:text-white transition-colors duration-200"
+                >
+                  Call Us
+                </a>
+              </li>
             </ul>
           </div>
 
@@ -61,6 +69,14 @@ const Footer = () => {
               <p>6278 Route 25a</p>
               <p>Wading River, NY 11792-2009</p>
               <p>5:30 AM - 2:30 PM Daily</p>
+              <p>
+                <a 
+                  href="tel:6318210500"
+                  className="hover:text-white transition-colors duration-200"
+                >
+                  📞 (631) 821-0500
+                </a>
+              </p>
             </div>
           </div>
         </div>

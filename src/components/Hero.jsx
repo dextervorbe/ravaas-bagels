@@ -37,6 +37,12 @@ const Hero = () => {
             >
               Order Now 🚀
             </a>
+            <a
+              href="tel:6318210500"
+              className="bg-ravaa-orange hover:bg-orange-600 text-white font-semibold text-lg px-8 py-4 rounded-lg transition-colors duration-200 inline-block"
+            >
+              📞 Call Now
+            </a>
             <Link
               to="/menu"
               className="btn-secondary text-lg px-8 py-4 inline-block"

@@ -97,14 +97,22 @@ const Menu = () => {
             <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
               Can't decide what to get? Ravaa recommends starting with our popular items!
             </p>
-            <a
-              href="https://www.doordash.com/store/2536346?utm_source=mx_share"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-primary text-lg px-8 py-4 inline-block"
-            >
-              Order on DoorDash 🚀
-            </a>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+              <a
+                href="https://www.doordash.com/store/2536346?utm_source=mx_share"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-primary text-lg px-8 py-4 inline-block"
+              >
+                Order on DoorDash 🚀
+              </a>
+              <a
+                href="tel:6318210500"
+                className="bg-ravaa-orange hover:bg-orange-600 text-white font-semibold text-lg px-8 py-4 rounded-lg transition-colors duration-200 inline-block"
+              >
+                📞 Call Now
+              </a>
+            </div>
           </motion.div>
         </div>
       </section>

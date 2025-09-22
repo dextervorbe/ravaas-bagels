@@ -19,7 +19,7 @@ const About = () => {
                 This whole bagel shop started with two things: a love of chewy, golden bagels and the boundless energy of our dog, Ravaa. She's the kind of pup who believes every bagel crumb is a personal gift from the universe — and honestly, who are we to argue?
               </p>
               <p>
-                We wanted a space that feels like Ravaa on her best day: playful, welcoming, and a little mischievous. So we kept things simple — hand-rolled dough, kettle-boiled, baked golden. No shortcuts, no fluff (well, except Ravaa).
+                We wanted a space that feels like Ravaa on her best day: playful, welcoming, and a little mischievous. So we kept things simple — hand-rolled dough, baked golden. No shortcuts, no fluff (well, except Ravaa).
               </p>
               <p>
                 Every morning our oven roars to life like it's saying, "Who decided that mornings had to be dull?" (Escanor would approve.) And when those bagels rise, we hear his words in the back of our heads: "My sunshine is peerless." Okay, maybe he meant himself… but we like to think it applies to a fresh sesame bagel, too.
