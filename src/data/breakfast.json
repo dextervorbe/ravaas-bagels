@@ -6,7 +6,7 @@
     "description": "A selection of bagels and breads including Plain Bagel, Gluten Free Bagel, Everything Bagel, Onion Bagel, and more. Also available: English Muffin, Croissant, Wheat Wrap, and Plain Wrap.",
     "image": "Butter Bagel",
     "category": "Breakfast",
-    "popular": false
+    "popular": True
   },
   {
     "id": 2,
@@ -186,7 +186,7 @@
     "description": "Two eggs paired with sausage and melted cheese, nestled in a soft bun.",
     "image": "2 Eggs, Sausage & Cheese",
     "category": "Breakfast",
-    "popular": false
+    "popular": true
   },
   {
     "id": 22,
@@ -258,7 +258,7 @@
     "description": "Two eggs nestled in your choice of roll, bagel, or toast (white, whole wheat, rye).",
     "image": "2 Eggs Sandwich",
     "category": "Breakfast",
-    "popular": false
+    "popular": true
   },
   {
     "id": 30,
@@ -294,6 +294,6 @@
     "description": "Assorted bagel varieties or bread options, including plain, gluten-free, sesame, poppy, wheat, cinnamon, rainbow, onion, rolls, muffins, croissants, and wraps. Cream cheese spread.",
     "image": "Cream Cheese Bagel",
     "category": "Breakfast",
-    "popular": false
+    "popular": true
   }
 ]

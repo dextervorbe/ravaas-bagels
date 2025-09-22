@@ -6,7 +6,7 @@
     "description": "Chilled and refreshing tea and ideal for a cool break anytime.",
     "image": "ice-tea",
     "category": "Drinks",
-    "popular": false
+    "popular": true
   },
   {
     "id": 202,
@@ -15,7 +15,7 @@
     "description": "Chilled coffee brewed to perfection, offering a refreshing and energizing start to your day.",
     "image": "ice-coffee",
     "category": "Drinks",
-    "popular": false
+    "popular": true
   },
   {
     "id": 203,
