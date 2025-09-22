@@ -1,51 +1,42 @@
 [
   {
-    "id": 1,
-    "name": "Coffee",
-    "price": 3.49,
-    "description": "Rich and aromatic brew to kickstart your day. Perfect for breakfast or lunch.",
-    "image": "coffee",
-    "category": "Drinks",
-    "popular": false
-  },
-  {
-    "id": 2,
-    "name": "Energy Drinks",
-    "price": 4.99,
-    "description": "Boost your day with our refreshing energy drinks and perfect for breakfast or lunch specials.",
-    "image": "energy-drink",
-    "category": "Drinks",
-    "popular": true
-  },
-  {
-    "id": 3,
-    "name": "Ice Coffee",
-    "price": 5.49,
-    "description": "Chilled coffee brewed to perfection, offering a refreshing and energizing start to your day.",
-    "image": "ice-coffee",
-    "category": "Drinks",
-    "popular": false
-  },
-  {
-    "id": 4,
+    "id": 201,
     "name": "Ice Tea",
-    "price": 4.49,
+    "price": 2.99,
     "description": "Chilled and refreshing tea and ideal for a cool break anytime.",
     "image": "ice-tea",
     "category": "Drinks",
     "popular": false
   },
   {
-    "id": 5,
+    "id": 202,
+    "name": "Ice Coffee",
+    "price": 3.99,
+    "description": "Chilled coffee brewed to perfection, offering a refreshing and energizing start to your day.",
+    "image": "ice-coffee",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 203,
     "name": "Tropicana",
-    "price": 4.25,
+    "price": 3.25,
     "description": "Refreshing tropicana juice and perfect for breakfast or lunch specials.",
     "image": "tropicana",
     "category": "Drinks",
     "popular": false
   },
   {
-    "id": 6,
+    "id": 205,
+    "name": "Coffee",
+    "price": 2.50,
+    "description": "Rich and aromatic brew to kickstart your day. Perfect for breakfast or lunch.",
+    "image": "coffee",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 206,
     "name": "Soda",
     "price": 3.99,
     "description": "Refreshing carbonated drink to complement your meal.",
@@ -54,20 +45,110 @@
     "popular": false
   },
   {
-    "id": 7,
+    "id": 207,
     "name": "Snapple",
-    "price": 3.99,
+    "price": 3.25,
     "description": "Natural-flavored drink, ideal for a refreshing and thirst-quenching experience.",
     "image": "snapple",
     "category": "Drinks",
     "popular": false
   },
   {
-    "id": 8,
-    "name": "Hot Tea",
-    "price": 3.49,
-    "description": "Warm and comforting tea, perfect for a relaxing break.",
-    "image": "hot-tea",
+    "id": 208,
+    "name": "Pepsi",
+    "price": 2.99,
+    "description": "Carbonated soft drink with a bold cola flavor.",
+    "image": "pepsi",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 209,
+    "name": "Water",
+    "price": 1.50,
+    "description": "Refreshing water, available in 12 oz, sport bottle, or liter options.",
+    "image": "water",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 210,
+    "name": "Gatorade",
+    "price": 2.99,
+    "description": "A crisp, satisfying taste to quench thirst and energize without caffeine.",
+    "image": "gatorade",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 211,
+    "name": "Redbull",
+    "price": 3.75,
+    "description": "Wings in a can! Bubbly, invigorating energy drink packed with a punch of taurine and caffeine for a spirited boost.",
+    "image": "redbull",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 212,
+    "name": "Monster Energy Drink",
+    "price": 3.99,
+    "description": "Typically includes a variety of flavors such as original, peach tea, pipeline punch, and irish cream java.",
+    "image": "monster-energy-drink",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 213,
+    "name": "Celcius",
+    "price": 3.69,
+    "description": "Sparkling water with a burst of citrus zest and a pinch of tropical sweetness.",
+    "image": "celcius",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 214,
+    "name": "C4",
+    "price": 3.69,
+    "description": "A performance energy drink with zero sugar, available in blue raspberry, watermelon, and green apple flavors.",
+    "image": "c4",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 215,
+    "name": "Bloom",
+    "price": 3.69,
+    "description": "Natural energy drink with options: watermelon, cherry lime, raspberry lemon, and peach mango. Contains natural caffeine, boosts energy, and supports mood.",
+    "image": "bloom",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 216,
+    "name": "Poppi",
+    "price": 2.69,
+    "description": "Sparkling prebiotic soda with natural flavors.",
+    "image": "poppi",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 217,
+    "name": "Coke Soda",
+    "price": 2.99,
+    "description": "Choose from a variety of Coke Sodas.",
+    "image": "coke-soda",
+    "category": "Drinks",
+    "popular": false
+  },
+  {
+    "id": 218,
+    "name": "Starbucks Frappuccino",
+    "price": 5.50,
+    "description": "Signature espresso coffee swirled into creamy delight.",
+    "image": "starbucks-frappuccino",
     "category": "Drinks",
     "popular": false
   }
