@@ -15,7 +15,7 @@ This website was created with love and a little dog hair! Ravaa's Bagels is a fa
 - **Popular Items Carousel** - Rotating showcase of Ravaa's favorite items
 - **Smooth Animations** - Delightful interactions powered by Framer Motion
 - **Custom Branding** - Colors and design inspired by Ravaa's personality
-- **UberEats Integration** - Direct ordering links
+- **DoorDash Integration** - Direct ordering links
 - **Social Media** - Instagram integration
 
 ## 🎨 Design
@@ -158,7 +158,7 @@ The website features a rotating carousel of popular items:
 
 ## 🔗 External Links
 
-- **Order Online:** [UberEats](https://www.ubereats.com/store/ravaas-bagels-6278-route-25a/c3_PqjioRo-DlBD2qIj8fA/0c0565a0-ffcd-447f-a926-ce385b8fc43f?ps=1)
+- **Order Online:** [DoorDash](https://www.doordash.com/store/2536346?utm_source=mx_share)
 - **Instagram:** [@ravaasbagels](https://www.instagram.com/ravaasbagels?igsh=MTRjOXN5OWttdXcydw==)
 
 ## 🎨 Customization

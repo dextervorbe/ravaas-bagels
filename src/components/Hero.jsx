@@ -30,7 +30,7 @@ const Hero = () => {
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
             <a
-              href="https://www.ubereats.com/store/ravaas-bagels-6278-route-25a/c3_PqjioRo-DlBD2qIj8fA/0c0565a0-ffcd-447f-a926-ce385b8fc43f?ps=1"
+              href="https://www.doordash.com/store/2536346?utm_source=mx_share"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary text-lg px-8 py-4 inline-block"
