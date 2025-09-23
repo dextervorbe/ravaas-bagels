@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "id": 101,
     "name": "Roast Beef",
-    "price": 10.99,
-    "description": "Tender roast beef with your choice of fresh lettuce, tomato, and onion.",
+    "price": 9.99,
+    "description": "Succulent roast beef slices paired with fresh lettuce, juicy tomato, and crisp onions, finished with a tangy mustard sauce and creamy mayonnaise on soft bread.",
     "image": "roast-beef",
     "category": "Lunch",
     "popular": false
@@ -20,7 +20,7 @@
   {
     "id": 103,
     "name": "Chicken Breast",
-    "price": 9.99,
+    "price": 8.99,
     "description": "Tender chicken breast and perfectly seasoned for a delightful meal experience.",
     "image": "chicken-breast",
     "category": "Lunch",
@@ -29,7 +29,7 @@
   {
     "id": 104,
     "name": "Chicken Cutlet",
-    "price": 10.99,
+    "price": 9.99,
     "description": "Tender chicken cutlet and perfect for breakfast or lunch specials.",
     "image": "chicken-cutlet",
     "category": "Lunch",
@@ -38,7 +38,7 @@
   {
     "id": 105,
     "name": "Grilled Chicken",
-    "price": 10.99,
+    "price": 9.99,
     "description": "Juicy grilled chicken and perfect for breakfast or lunch specials.",
     "image": "grilled-chicken",
     "category": "Lunch",
@@ -56,7 +56,7 @@
   {
     "id": 107,
     "name": "BLT",
-    "price": 9.99,
+    "price": 8.99,
     "description": "Crispy bacon, fresh lettuce, and ripe tomato stacked for a classic taste.",
     "image": "blt",
     "category": "Lunch",
@@ -65,8 +65,8 @@
   {
     "id": 108,
     "name": "Tuna Salad",
-    "price": 9.99,
-    "description": "Fresh tuna and your choice mixed with crisp greens and veggies for a light and refreshing meal. Perfect for breakfast or lunch specials.",
+    "price": 8.99,
+    "description": "A scoop of tuna mixed with crisp lettuce, sliced tomato, and red onion, sandwiched between two slices of fresh bread or your choice of wraps, bagels rolls etc",
     "image": "tuna-salad",
     "category": "Lunch",
     "popular": false
@@ -74,7 +74,7 @@
   {
     "id": 109,
     "name": "Chicken Salad",
-    "price": 9.99,
+    "price": 8.99,
     "description": "Juicy chicken with fresh greens and vibrant vegetables, perfect for a light and nutritious meal.",
     "image": "chicken-salad",
     "category": "Lunch",
@@ -83,7 +83,7 @@
   {
     "id": 110,
     "name": "Egg Salad",
-    "price": 9.99,
+    "price": 8.99,
     "description": "Creamy egg salad, perfect for breakfast or lunch and offering a classic taste with every bite.",
     "image": "egg-salad",
     "category": "Lunch",
@@ -104,6 +104,51 @@
     "price": 6.25,
     "description": "Seasoned potatoes, cooked to a golden crisp and perfect for breakfast or lunch.",
     "image": "home-fries",
+    "category": "Lunch",
+    "popular": false
+  },
+  {
+    "id": 113,
+    "name": "Genoa Salami",
+    "price": 8.99,
+    "description": "Premium Genoa salami with fresh ingredients for a classic deli experience.",
+    "image": "genoa-salami",
+    "category": "Lunch",
+    "popular": false
+  },
+  {
+    "id": 114,
+    "name": "Bologna Sandwich",
+    "price": 8.99,
+    "description": "Classic bologna sandwich with fresh lettuce, tomato, and your choice of condiments.",
+    "image": "bologna-sandwich",
+    "category": "Lunch",
+    "popular": false
+  },
+  {
+    "id": 115,
+    "name": "Turkey BLT",
+    "price": 9.99,
+    "description": "A delicious twist on the classic BLT featuring tender turkey breast with crispy bacon, fresh lettuce, and ripe tomato.",
+    "image": "turkey-blt",
+    "category": "Lunch",
+    "popular": false
+  },
+  {
+    "id": 116,
+    "name": "Turkey Breast (Oven gold boars head) Sandwich",
+    "price": 9.99,
+    "description": "Premium oven gold Boar's Head turkey breast sandwich with fresh ingredients and premium quality meat.",
+    "image": "turkey-breast-oven-gold",
+    "category": "Lunch",
+    "popular": false
+  },
+  {
+    "id": 117,
+    "name": "Ham (Boars Head) Sandwich",
+    "price": 8.99,
+    "description": "Premium Boar's Head ham sandwich with fresh lettuce, tomato, and your choice of condiments for a classic deli experience.",
+    "image": "ham-boars-head",
     "category": "Lunch",
     "popular": false
   }

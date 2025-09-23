@@ -50,6 +50,11 @@ export const getImagePath = (imageName) => {
     'egg-salad': '/ravaas-bagels/images/Lunch/egg-salad.jpg',
     'tuna-melt': '/ravaas-bagels/images/Lunch/tuna-melt.jpg',
     'home-fries': '/ravaas-bagels/images/Lunch/home-fries.jpg',
+    'genoa-salami': '/ravaas-bagels/images/Lunch/Genoa Salami.avif',
+    'bologna-sandwich': '/ravaas-bagels/images/Lunch/Bologna Sandwich.webp',
+    'turkey-blt': '/ravaas-bagels/images/Lunch/Turkey BLT.webp',
+    'turkey-breast-oven-gold': '/ravaas-bagels/images/Lunch/Turkey Breast (Oven gold boars head) Sandwich.webp',
+    'ham-boars-head': '/ravaas-bagels/images/Lunch/Ham (Boars Head) Sandwich.avif',
     
     // Drinks images
     'coffee': '/ravaas-bagels/images/Drinks/coffee.jpg',
